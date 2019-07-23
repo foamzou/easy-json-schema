@@ -2,12 +2,8 @@ English | [简体中文](./README.zh-CN.md)
 
 <h1 align="center">Easy Json Schema</h1>
 
-<div align="center">
-
 * Use php object to define Json-Schema easily (support draft-07 and draft-06)
 * Use [opis/json-schema](https://github.com/opis/json-schema) as validator
-
-</div>
 
 
 ## Advantage
