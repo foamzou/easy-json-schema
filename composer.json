@@ -1,0 +1,26 @@
+{
+    "name": "foamzou/easy-json-schema",
+    "authors": [
+        {
+            "name": "foamzou",
+            "email": "woshizoufeng@qq.com"
+        }
+    ],
+    "require": {
+        "opis/json-schema": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Foamzou\\EasyJsonSchema\\": "src/",
+            "Demo\\": "demo/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
