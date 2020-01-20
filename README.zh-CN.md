@@ -2,6 +2,8 @@
 
 <h1 align="center">Easy Json Schema</h1>
 
+> 当然，如果条件允许的话，我更倾向于推荐你使用protobuf
+
 * 使用php对象，描述Json-Schema变得更容易（支持draft-07 和 draft-06）
 * 使用[opis/json-schema](https://github.com/opis/json-schema)作为校验器
 
